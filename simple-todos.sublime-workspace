@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"listItem"
+			],
+			[
+				"a",
+				"arg1"
+			],
+			[
+				"arg",
+				"arg3"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"fi",
+				"filtered"
+			],
+			[
+				"rou",
+				"rounded"
+			],
+			[
+				"r",
+				"roundUp"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tipo",
+				"tipoM"
+			],
+			[
+				"fo",
+				"forms"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simple-todos.html",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simple-todos.css",
+			"settings":
+			{
+				"buffer_size": 1713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simple-todos.js",
+			"settings":
+			{
+				"buffer_size": 1519,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hector/Desktop/node/program.js",
+		"/Users/hector/Downloads/tabledragble/tabledragble/DataConn.js",
+		"/Users/hector/Desktop/javascripting/variables.js",
+		"/Users/hector/Desktop/javascripting/strings.js",
+		"/Users/hector/Desktop/javascripting/string-length.js",
+		"/Users/hector/Desktop/javascripting/revising-strings.js",
+		"/Users/hector/Desktop/javascripting/numbers.js",
+		"/Users/hector/Desktop/javascripting/rounding-numbers.js",
+		"/Users/hector/Desktop/javascripting/number-to-string.js",
+		"/Users/hector/Desktop/javascripting/if-statement.js",
+		"/Users/hector/Desktop/javascripting/for-loop.js",
+		"/Users/hector/Desktop/javascripting/arrays.js",
+		"/Users/hector/Desktop/javascripting/array-filtering.js",
+		"/Users/hector/Desktop/javascripting/accessing-array-values.js",
+		"/Users/hector/Desktop/javascripting/looping-through-arrays.js",
+		"/Users/hector/Desktop/javascripting/objects.js",
+		"/Users/hector/Desktop/javascripting/objects-properties.js",
+		"/Users/hector/Desktop/javascripting/functions.js",
+		"/Users/hector/Desktop/javascripting/function-arguments.js",
+		"/Users/hector/Desktop/javascripting/scope.js",
+		"/Users/hector/Desktop/javascripting/introduction.js",
+		"/Users/hector/Downloads/Ex.Machina.2015.1080p.BluRay.DTS.AAC.2XAUDIO.x264-KAGA/Ex.Machina.2015.DVDRip.650MB.MkvCage.com.srt",
+		"/Users/hector/Downloads/427526/Blackhat.2015.1080p.BluRay.x264-GECKOS-Full.srt",
+		"/Users/hector/Downloads/San Andreas Quake (2015) [1080p]/San.Andreas.Quake.2015.1080p.BluRay.x264.YIFY.srt",
+		"/Users/hector/Documents/DEM/Lote.txt",
+		"/Users/hector/pibee/css/estilos.css",
+		"/Users/hector/pibee/sym.html",
+		"/Users/hector/pibee/index.html",
+		"/Users/hector/Documents/BDIGITAL/pg_integrada.c",
+		"/Users/hector/Documents/BDIGITAL/FormulaMvtos/mcformulamvtos.c",
+		"/Users/hector/Documents/BDIGITAL/mcpersonas.c",
+		"/Users/hector/Documents/PIBEE/index.html",
+		"/Users/hector/Downloads/421521/Interstellar 2014 720p BrRip x264 YIFY - Forzado.srt",
+		"/opt/cisco/anyconnect/profile/AnyConnectProfile.xsd",
+		"/Users/hector/Documents/BNET/BBVEVE14041_es.jsp",
+		"/Users/hector/Downloads/askCoordenadasBBVANet_CAS.jsp",
+		"/Users/hector/Downloads/Suits.S03E12.720p.HDTV.x264-REMARKABLE[rarbg]/Suits.S03E12.720p.HDTV.x264-REMARKABLE.srt",
+		"/Users/hector/Downloads/Suits S03E11 HDTV x264-EXCELLENCE[ettv]/Suits.S03E11.HDTV.x264-EXCELLENCE.srt",
+		"/Users/hector/Downloads/1502060004VE.TDC",
+		"/Users/hector/Downloads/CampañaMitigacionCheque.html",
+		"/Users/hector/Downloads/The.Flash.2014.S01E11.The.Sound.and.the.Fury.WEB-DL.x264.AAC/The Flash 2014 1x11 - The Sound and The Fury (Español (España)).srt",
+		"/Users/hector/Downloads/The.Flash.2014.S01E11.The.Sound.and.the.Fury.WEB-DL.x264.AAC/The.Flash.2014.S01E11.The.Sound.and.the.Fury.WEB-DL.x264.AAC.srt",
+		"/Applications/XAMPP/xamppfiles/htdocs/propuestaCheque.html",
+		"/Users/hector/Downloads/propuestaCheque.html",
+		"/private/var/tmp/sysdiagnose_2015.01.25_11-37-24-0430_845/top.txt",
+		"/private/var/tmp/sysdiagnose_2015.01.25_11-37-24-0430_845/error_log.txt",
+		"/private/var/tmp/sysdiagnose_2015.01.25_11-37-24-0430_845/fs_usage.txt",
+		"/private/var/tmp/sysdiagnose_2015.01.25_11-37-24-0430_845/vm_stat.txt",
+		"/Users/hector/Downloads/credentials.xml",
+		"/Users/hector/Downloads/dse.l4.log",
+		"/Users/hector/Downloads/joomla.sql",
+		"/Users/hector/Downloads/feriados.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"HtmlDepositosMasivosBsF",
+			"pgProcRespMfD",
+			"es_depositosmasivos",
+			"EnviandoRafaga",
+			"SeteandoUsuario",
+			"indicaop",
+			"opcionRafaga",
+			"HtmlDepositosMasivosBsF",
+			"IT_DATOS_PERSONAS",
+			"bbvanetgeneral",
+			"aceptar",
+			"aquí",
+			"/* aquí */"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simple-todos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "simple-todos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "simple-todos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								758,
+								758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "simple-todos.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
